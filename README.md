@@ -16,9 +16,10 @@
 ### Another freelance developer, just having an interest in playing around with new technologies
 
   - 🔭 Currently a student
+  - 🎵 Listening to : TWICE
   - 🌱 Favourite langauge is: Javascript
   - 💬 Currently learning: Typescript
-  - 🎞  A huge fan of: Twice
+  - 🧲 Working mostly on: Private Repos
   - 😄 Hotel: Trivago
   - ⚡ Fun fact: I have strong opinions on operating systems
 
