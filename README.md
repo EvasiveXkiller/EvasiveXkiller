@@ -77,4 +77,10 @@
 </a>  
 </div>  
 
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=EvasiveXkiller&label=Visits&style=flat-square)
+  
+</div>
+
 <br />
